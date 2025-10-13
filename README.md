@@ -16,7 +16,7 @@ Currently, I'm expanding my portfolio with impactful projects focused on **busin
 
 ## 📊 Featured Projects  
 
-- **[Hospital Readmission Rate Dashboard](#)**  
+- [**[Hospital Readmission Rate Dashboard](#)**](https://github.com/gio-portfolio/Hospital-Readmission-Rate-Project)  
   Designed an Excel dashboard to analyze patient readmission rates and highlight key risk factors influencing outcomes.  
 
 - **[Retail Sales & Inventory Performance Dashboard](#)**  
