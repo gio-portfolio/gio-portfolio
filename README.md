@@ -19,7 +19,7 @@ Currently, I'm expanding my portfolio with impactful projects focused on **busin
 - **[Hospital Readmission Rate Dashboard](https://github.com/gio-portfolio/Hospital-Readmission-Rate-Project)**
   Designed an Excel dashboard to analyze patient readmission rates and highlight key risk factors influencing outcomes.  
 
-- **[Retail Sales & Inventory Performance Dashboard](#)**  
+- **[Retail Sales & Inventory Performance Dashboard](https://github.com/gio-portfolio/Retail-Sales-and-Inventory-Performance-Project/tree/main)**  
   Built a Power BI dashboard to visualize  regional sales trends and stock performance for data-driven decision-making.  
 
 ---
